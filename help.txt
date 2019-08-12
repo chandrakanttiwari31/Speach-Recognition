@@ -1,0 +1,50 @@
+#########################commands related to their task#######################
+
+1.for starting a video(command:play video)
+
+2.for closing video(command:close video)
+
+3.for searching elements from wikipedia(command:wikipedia)
+
+4.for opening the youtube(command:open youtube)
+
+5.for showing the calender(command:calender)
+
+6.to close youtube (command:close youtube)
+
+7.for program like prime palindrome armstrome number (command:program)
+
+8.tell me something about yourself (command:about you)
+
+9.health management (command:health)
+
+10.for opening google (command:open google)
+
+11.for open stackoverflow website (command:open stackoverflow)
+
+12.for knowing the time (command:the time)
+
+13.to make your file's in sequence (command:sequence)
+
+14.to know how old you are (command:age)
+
+15.to open visual studio code (command:open code)
+
+16.to close visual studio code (command:close code)
+
+17.to open notepad(command:open notepad)
+
+18.to close notepad (command:close notepad)
+
+19.for open  sublime text (command:open sublime)
+
+20.to close sublime text (command:close sublime)
+
+21.open chrome browser (command:open chrome)
+
+22.close chrome browser (command:close chrome)
+
+23.for mailing to chandan (command:email to chandan)
+
+24.for exit from the program (command:exit)
+

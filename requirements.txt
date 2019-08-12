@@ -1,0 +1,13 @@
+You don't need to have any extra knowledge related to AI or Machine learning.
+
+you can directly jump on this code and hope you will enjoy this.
+
+
+########## some module's which you will have need for this.##########
+
+
+1.wikipedia  # pip install wikipedia
+2.webbrowser  # pip install webbrowser
+3.smtplib  # pip install smtplib
+4.pyttsx3  # pip install pyttsx3
+5.speech_recognition   # pip install speechRecognition

@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+
+
+    "video_dir":"E:\\mymemmory\\harry Bhai\\[Hindi] Web Development Using Flask and Python",
+
+    "video_player": "wmplayer.exe",
+
+    "visual_studio_code_path": "C:\\Users\\Tiwari\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+
+    "notepad_path": "C:\\WINDOWS\\system32\\notepad.exe",
+
+    "sublime_path":  "C:\\Program Files\\Sublime Text 3\\sublime_text.exe",
+
+    "secure_file": "D:\\dt\\dt.txt",
+
+    "chrome_path": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+
+
+
+  }
+
+}
